@@ -1,0 +1,107 @@
+
+
+
+.my-custom-background {
+    background: linear-gradient(rgb(0, 238, 255),rgb(250, 1, 1),rgb(255, 0, 0));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    padding: 10px;
+    margin: 0;
+    background-attachment: fixed;
+    
+}
+
+
+
+header {
+    color: rgb(15, 16, 16);
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.jpglogo {
+    max-width: 200px;
+    width: auto;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(255, 0, 0);
+}
+
+.formA {
+    box-shadow: 0 0 20px red;
+    max-width: 600px;
+    margin: auto;
+    justify-content: center;
+    padding: 10px;
+}
+
+p {
+    display: inline-block;
+}
+
+.afich {
+    min-width: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    
+    flex-wrap: wrap;
+    max-height: 100%; 
+   
+
+
+    text-align: center;
+}
+.afich1 {
+    width: 250px;
+    max-width: 500px;
+    box-shadow:0 0 10px inset rgb(255, 0, 0);
+    position: relative;
+    border-radius: 10px;
+    background-color: rgba(127, 255, 212, 0.513);
+    margin:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.post{
+    max-width: 200px;
+    max-height: 100px;
+}
+
+    
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+font-size: 1rem;
+line-height: 2.15;
+padding-left: .75em;
+padding-right: .75em;
+}
+.card-registration .select-arrow {
+top: 13px;
+}
+.card{
+    box-shadow: 0 0 10px blue;
+}
+.casebtn a{
+    display: inline-block;
+    margin: 10px;
+    
+}
+.annonce{
+    margin: 10px;
+
+}
+
+.casebtn{
+margin-bottom: 0px;
+
+    
+}
+
+
+
+
+
